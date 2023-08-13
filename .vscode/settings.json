@@ -1,6 +1,6 @@
 {
-    "python.analysis.inlayHints.callArgumentNames": true,
+    "python.analysis.inlayHints.callArgumentNames": false,
     "python.analysis.inlayHints.functionReturnTypes": true,
-    "python.analysis.inlayHints.pytestParameters": true,
+    "python.analysis.inlayHints.pytestParameters": false,
     "python.analysis.inlayHints.variableTypes": false
 }
